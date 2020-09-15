@@ -1,0 +1,26 @@
+body
+{
+  padding: 50px;
+  background-color: #c0c0c0;
+}
+.box1
+{
+    padding: 50px;
+  background-color: #fff;
+}
+.box1 h2
+{
+  font-size: 20px;
+  padding-left: 20px;
+}
+.box1 h3
+{
+
+  color:#0000ff;
+  font-size: 18px;
+  padding-left: 20px;
+}
+.box1 p
+{
+  padding-left: 20px;
+}
